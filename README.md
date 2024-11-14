@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vikas-h-kumar
+- 👋 Hi, I’m @vikash_Kumar
 - 👀 I’m interested in Research, Python
 - 🌱 I’m currently learning Python
 
