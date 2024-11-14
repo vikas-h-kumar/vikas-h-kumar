@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @vikas-h-kumar
-- 👀 I’m interested in Research, HTML,CSS,C,C++
-- 🌱 I’m currently learning C,C++,HTML,Css
-- 💞️ I’m looking to collaborate on a web developer, Digital market
-- 📫 I wanted to be a webdesiner, graphic desiner
+- 👀 I’m interested in Research, Python
+- 🌱 I’m currently learning Python
 
 <!---
 vikas-h-kumar/vikas-h-kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
